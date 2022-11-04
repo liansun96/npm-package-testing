@@ -1,0 +1,20 @@
+{
+  "name": "npm-package-testing",
+  "version": "1.0.0",
+  "description": "Just Testing npm package",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liansun96/npm-package-testing.git"
+  },
+  "author": "Lian Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liansun96/npm-package-testing/issues"
+  },
+  "homepage": "https://github.com/liansun96/npm-package-testing#readme"
+}
